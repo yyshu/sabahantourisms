@@ -7,12 +7,12 @@ created:  2017 Aug 3
 
 ---
 
-Solarized
+Sabahan Tourism
 =========
 
-## Precision colors for machines and people
+## Online Hub for Tourist and Travel Agency
 
-[![solarized dualmode](http://www.borneo.com.au/site_content/images/logos/sabah-logo.jpg)](#features)
+[![solarized dualmode](https://github.com/yyshu/sabahantourisms/blob/master/sabah-logo.jpg?raw=true)](#features)
 
 Solarized is a sixteen color palette (eight monotones, eight accent colors)
 designed for use with terminal and gui applications. It has several [unique
